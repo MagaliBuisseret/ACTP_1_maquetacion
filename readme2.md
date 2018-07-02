@@ -69,5 +69,6 @@
 		- Para buscar iconos, usar font awesome
 
 ### Sketch para desktop y mobile
-![](assets/img/20180626_211406.jpg)
+![](Assets/img/20180626_211406.jpg)
+![](Assets/img/20180626_211417.jpg)
 
